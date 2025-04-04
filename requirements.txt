@@ -1,0 +1,8 @@
+customtkinter
+keras_tuner
+matplotlib
+numpy
+pandas
+scikit_learn
+tensorflow
+tensorflow_intel
