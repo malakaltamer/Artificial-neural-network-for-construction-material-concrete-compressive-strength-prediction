@@ -29,6 +29,8 @@ To train the model click on train and wait (approximately 1 minute to an hour to
 To predict inputted values, please input your features numbers in their perspective box, then click on predict. A prediction should appear in the model prediction box.
 
 ## Known issues and fixes
-On some computers the text might be too large or too small.
-When the fullscreen feature is used the HUD becomes a box on the top left of the screen.
-To fix these issues, please set scale to 100% and display resolution to 1920x1080 from the display settings.
+On some computers the text might be too large or too small and/or when the fullscreen feature is used the HUD becomes a box on the top left of the screen.
+
+To fix these issues, right click on the program (MAIN.exe) then 'Properties', followed by 'Compatibility', then 'Change high DPI settings', check the 'Override high DPI scaling behavior.' box, and choose 'System (Enhanced)' from 'the scaling performed by:' menu.
+
+or you can set the screen scale to 100% and display resolution to 1920x1080 from the display settings.
